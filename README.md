@@ -1,4 +1,4 @@
-# MiddString
+# MiddString by java 
 
 
 package middstring;
