@@ -1,4 +1,4 @@
-# midstring
+# MiddString
 
 
 package middstring;
